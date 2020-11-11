@@ -4,3 +4,5 @@
 -cat
 -dog
 -egg
+-horse
+-iphone
