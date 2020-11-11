@@ -2,3 +2,5 @@ Mazda RX7-FC3S
 TOYOTA TURENO GT-APEX(AE86)
 Audi e-tron
 Honda CR-V
+Audi A4/A4 Avant
+Audi Q8
